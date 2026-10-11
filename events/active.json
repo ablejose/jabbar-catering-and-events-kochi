@@ -1,0 +1,59 @@
+{
+  "slug": "jabbar-catering-and-events-kochi",
+  "name": "Jabbar Catering & Events",
+  "shortName": "Jabbar",
+  "descriptor": "Catering & Events",
+  "address": "Varmayil Parambu (H, Janatha Nagar, Thangal Nagar, Kochi, Keralam 682006",
+  "area": "Thangal Nagar",
+  "city": "Kochi",
+  "district": "Ernakulam",
+  "region": "Kerala",
+  "postalCode": "682006",
+  "geo": {
+    "lat": 9.9166914,
+    "lng": 76.2822013
+  },
+  "mapsLink": "https://maps.google.com/?cid=6681042609009368177",
+  "phone": "+91 98461 71283",
+  "whatsapp": "919846171283",
+  "hours": "Open 24 hours · all days",
+  "opens": "00:00",
+  "closes": "23:59",
+  "rating": 4.9,
+  "reviewCount": 48,
+  "reviews": [
+    {
+      "name": "Amal Johny",
+      "rating": 5,
+      "quote": "The best Biriyani I ever had!! It's certain that this will become the most popular biryani in Kochi soon. Just try it & you will love it!!"
+    },
+    {
+      "name": "riya fathima",
+      "rating": 5,
+      "quote": "Sooper service...must try foods in kochi.."
+    },
+    {
+      "name": "Akshay Antony T",
+      "rating": 5,
+      "quote": "Jabbar ikka is a masterpiece of varieties more over his kindness and loveable mind makes us to fill our celebrations and parties to an outstanding events. He has a special talent in the art of food. Since I’m having more than 7 years relationship still his foods are getting way better and better. He’s a great expertise in Biriyani."
+    },
+    {
+      "name": "Eric John Rozario",
+      "rating": 5,
+      "quote": "One of my favourite biriyani that I had eat and also good service"
+    },
+    {
+      "name": "Anandhu's Vlogs & Tech",
+      "rating": 5,
+      "quote": "The catering service provided was really good and food quality too. I suggest everyone to book this catering for your special occasions."
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp",
+    "gallery/05.webp"
+  ],
+  "url": "https://jabbar-catering-and-events-kochi.vercel.app"
+}
